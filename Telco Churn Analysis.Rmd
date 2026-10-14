@@ -1,6 +1,6 @@
 ---
 title: "Telco Predicting Customer Churn"
-author: "Nicole"
+author: "Amy"
 date: "2025-08-23"
 output:
   pdf_document: default
